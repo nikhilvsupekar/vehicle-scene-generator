@@ -131,3 +131,5 @@ dmypy.json
 
 .DS_Store
 data/
+parts_data/
+parts_data*.zip
